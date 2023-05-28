@@ -16,7 +16,7 @@
 <a href="test/tram.JPG">of a tram</a></br></li>
 <li>Sketching</li>
 <li>Reading Books</li> 
-  <a href="fav.html">favourite books</a>
+  <a href="test/fav.htm">favourite books</a>
 <li>Writing (i was also editor of my school newspaper)</li>
 <li>Interior</li></font>
 
