@@ -15,7 +15,8 @@
 <li>Drawing<br>Some of my drawings can be seen by opening the following link<br>
 <a href="test/tram.JPG">of a tram</a></br></li>
 <li>Sketching</li>
-<li>Reading Books</li>
+<li>Reading Books</li> 
+  <a href="fav.htm">favourite books</a>
 <li>Writing (i was also editor of my school newspaper)</li>
 <li>Interior</li></font>
 
