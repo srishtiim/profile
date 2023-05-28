@@ -16,9 +16,10 @@
 <a href="https://github.com/srishtiim/test/blob/e1306615490a482dc96aa29f28e0a178f1aaf562/fav.htm">of a tram</a></br></li>
 <li>Sketching</li>
 <li>Reading Books</li> 
-  <a href="test/fav.htm">favourite books</a>
+  <a href="test/fav.html">favourite books</a>
 <li>Writing (i was also editor of my school newspaper)</li>
 <li>Interior</li></font>
+<a href="file:///C:/Users/swati/Downloads/fav.htm">yea</a>
 
 <h2><i>Current Studies</i></h2>
 <p><font size="5">I am currently studying computer science and will be starting<br>
