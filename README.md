@@ -19,7 +19,8 @@
   <a href="test/fav.html">favourite books</a>
 <li>Writing (i was also editor of my school newspaper)</li>
 <li>Interior</li></font>
-<a href="file:///C:/Users/swati/Downloads/fav.htm">yea</a>
+<nav><a href="file:///C:/Users/swati/Downloads/fav.htm">yea</a></nav>
+
 
 <h2><i>Current Studies</i></h2>
 <p><font size="5">I am currently studying computer science and will be starting<br>
