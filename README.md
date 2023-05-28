@@ -13,7 +13,7 @@
 <p>><font size="5">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> <br>I have been here since 2010 although i was in Amity Noida first</br>
 <br>My <b>hobbies</b> include the following things- 
 <li>Drawing<br>Some of my drawings can be seen by opening the following link<br>
-<a href="test/tram.JPG">of a tram</a></br></li>
+<a href="https://github.com/srishtiim/test/blob/e1306615490a482dc96aa29f28e0a178f1aaf562/fav.htm">of a tram</a></br></li>
 <li>Sketching</li>
 <li>Reading Books</li> 
   <a href="test/fav.htm">favourite books</a>
