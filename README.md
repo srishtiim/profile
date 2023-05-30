@@ -5,7 +5,7 @@
 <body style="background-color:LightBlue;">
 
 
-<h1>Basic Details</h1>
+<h2>Basic Details</h2>
 <p><li>Hi, My name is Srishti Mukherjee</li>
 <li>Currently my age is 17</li></p>
 
