@@ -16,7 +16,7 @@
 <a href="https://github.com/srishtiim/test/blob/c0ed1fd8c7e1f932cff69ec3b125fa16a4054588/tram.JPG">of a tram</a></li>
 <li>Sketching</li>
 <li>Reading Books</li> 
-  <a href="[test/fav.html](https://github.com/srishtiim/test/blob/e1306615490a482dc96aa29f28e0a178f1aaf562/fav.htm)">favourite books</a>
+  <a href="[test/fav.html]">favourite books</a>
 <li>Writing (i was also editor of my school newspaper)</li>
 <li>Interior</li></font>
 <nav><a href="/fav.htm">yea</a></nav>
