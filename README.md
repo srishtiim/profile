@@ -19,13 +19,14 @@
   <a href="https://srishtiim.github.io/profile/fav.htm">favourite books</a>
 <li>Writing (i was also editor of my school newspaper)</li>
 <li>Interior</li></font>
-<nav><a href="/fav.htm">yea</a></nav>
+
 
 
 <h2>Current Studies</h2>
 <p><font size="5">I am currently studying computer science and will be starting<br>
 my first year in college.I am learning html and python through the internet<br>
-and various other sources.</font><br>
+and various other sources. My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of pcm i.e.<br>
+ physics, chemistry, maths</font><br>
 
 <a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> Send me an e­mail!</a>
 
