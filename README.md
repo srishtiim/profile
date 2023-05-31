@@ -10,6 +10,12 @@
  I'm a student just graduationg class 12th <br>
  and currently my age is 17</font></br></p>
 
+<h2>Current Studies</h2>
+<p><font size="5">I am currently studying computer science and will be starting<br>
+my first year in college.I am learning html and python through the internet<br>
+and various other sources. My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of pcm i.e.<br>
+ physics, chemistry, maths</font><br>
+
 <h2>School Life</h2>
 <p><font size="5">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> 
  <br>I have been here since 2010 although i was in Amity Noida first
@@ -24,11 +30,7 @@
 
 
 
-<h2>Current Studies</h2>
-<p><font size="5">I am currently studying computer science and will be starting<br>
-my first year in college.I am learning html and python through the internet<br>
-and various other sources. My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of pcm i.e.<br>
- physics, chemistry, maths</font><br>
+
 
 <a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> Send me an e­mail!</a>
 
