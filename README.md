@@ -7,8 +7,8 @@
 
 <h2>Basic Details</h2>
 <p><font size="5">Hi, My name is Srishti Mukherjee<br>
- <li>I'm a student just graduationg class 12th <br>
-  and currently my age is 17</font></br></p>
+ I'm a student just graduationg class 12th <br>
+ and currently my age is 17</font></br></p>
 
 <h2>School Life</h2>
 <p><font size="5">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> <br>I have been here since 2010 although i was in Amity Noida first</br>
