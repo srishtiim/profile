@@ -12,7 +12,7 @@
 
 <h2>Current Studies</h2>
 <p><font size="5">I am currently studying computer science and will be starting<br>
-my first year in college.I am learning html and python through the internet<br>
+my first year in college.I am learning html, python and C++ through the internet<br>
 and various other sources. My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of pcm i.e.<br>
  physics, chemistry, maths</font><br>
 
