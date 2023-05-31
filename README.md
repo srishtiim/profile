@@ -11,7 +11,8 @@
  and currently my age is 17</font></br></p>
 
 <h2>School Life</h2>
-<p><font size="5">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> <br>I have been here since 2010 although i was in Amity Noida first</br>
+<p><font size="5">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> 
+ <br>I have been here since 2010 although i was in Amity Noida first
 <br>Some of the hobbies I developed are- 
 <li>Drawing<br>Some of my drawings can be seen by opening the following link<br>
 <a href="https://srishtiim.github.io/profile/1.htm">of a tram</a></li>
