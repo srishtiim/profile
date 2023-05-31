@@ -14,8 +14,8 @@
 <p><font size="5">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> 
  <br>I have been here since 2010 although i was in Amity Noida first
 <br>Some of the hobbies I developed are- 
-<li>Drawing<br>Some of my drawings can be seen by opening the following link<br>
-<a href="https://srishtiim.github.io/profile/1.htm">of a tram</a></li>
+ <li>Drawing-Some of the <a href="https://srishtiim.github.io/profile/1.htm">drawings</a> I have made are related to the theme of Kolkata<br>
+</li>
 <li>Sketching</li>
  <li>Reading Books- My  <a href="https://srishtiim.github.io/profile/fav.htm">favourite genres</a> of books are related to <br>
  existentialism, psychology and crime</li> 
