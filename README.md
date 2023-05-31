@@ -18,7 +18,7 @@ and various other sources. My <a href="https://srishtiim.github.io/profile/3.htm
 
 <h2>School Life</h2>
 <p><font size="5">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> 
- <br>I have been here since 2010 although i was in Amity Noida first
+ <br>I joined it in 2010 and previously I was in Amity International, Noida.
 <br>Some of the hobbies I developed are- 
  <li>Drawing-Some of the <a href="https://srishtiim.github.io/profile/1.htm">drawings</a> I have made are related to the theme of Kolkata<br>
 </li>
