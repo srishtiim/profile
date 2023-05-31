@@ -16,8 +16,8 @@
 <li>Drawing<br>Some of my drawings can be seen by opening the following link<br>
 <a href="https://srishtiim.github.io/profile/1.htm">of a tram</a></li>
 <li>Sketching</li>
-<li>Reading Books</li> 
-  <a href="https://srishtiim.github.io/profile/fav.htm">favourite books</a>
+ <li>Reading Books- My  <a href="https://srishtiim.github.io/profile/fav.htm">favourite genres</a> of books are related to <br>
+ existentialism, psychology and crime</li> 
 <li>Writing (i was also editor of my school newspaper)</li>
 <li>Interior</li></font>
 
