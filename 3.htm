@@ -56,12 +56,18 @@ and required thorough studying, practice and revision.</br></p>
 
 
 <p>Chapters completed in different subjects are as follows<p>
-<form>
-<select name="forma">
-<option value="Maths">Maths</option>
-<option value="Physics">Physics</option>
-<option value="Chemistry">Chemistry</option>
-</select>
+
+<form action="/DEFAULT_URL" method="post">
+  <!-- Input fields here -->
+  
+  <!-- This button will post to the 
+  /DEFAULT_URL of the form-->
+  <button type="submit">Maths</button>
+  
+  <button type="submit" formaction="/URL2">Chemistry</button>
+
+  <button type="submit" formaction="/URL2">Physics</button>
+</form>
 
 
 
