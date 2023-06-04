@@ -16,9 +16,11 @@
 <p><font size="4"><li>I am currently studying computer science and will be starting my first year in college.</li>
  <li>I am learning html, python and C++ through the internet and various other sources.</li>
  <li>My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of PCM i.e.
-  <ol>physics</ol>
-  <ol>chemistry</ol>
-  <ol>maths</ol></font></li>
+  <ol type="1">
+  <li>physics</li>
+  <li>chemistry</li>
+  <li>maths</font></li>
+ </ol>
 
 <h2>School Life</h2>
 <p><font size="4">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> 
