@@ -7,8 +7,8 @@
 
 <h2>Basic Details</h2>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
- I'm a student just graduated from class 12th<br>
- and currently my age is 17.</font></p>
+ I just graduated from class 12th<br>
+ </font></p>
 
 <h2>Current Studies</h2>
 <p><font size="4">I am currently studying computer science and will be starting<br>
