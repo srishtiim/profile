@@ -23,7 +23,7 @@
  <br>I joined it in 2010 and previously I was in Amity International, Noida.
 <br>Some of the hobbies I developed are- 
  
- <h2>Hobbies</h2>
+ <h1>Hobbies</h1>
  Some of the hobbies I developed are- 
  <li>Drawing-Some of the <a href="https://srishtiim.github.io/profile/1.htm">drawings</a> I have made are related to the theme of Kolkata<br></li>
 <li>Sketching</li>
