@@ -3,6 +3,8 @@
 <title>About Me</title>
 </head>
 <body style="background-color:LightBlue;">
+ 
+ <img src="https://srishtiim.github.io/profile/me.jpg" width="250" height="200">
 
 
 <h2>Details</h2>
