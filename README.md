@@ -18,7 +18,7 @@
  <li>My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of PCM i.e.
   <ol>physics</ol>
   <ol>chemistry</ol>
-  <ol>maths</font></li>
+  <ol>maths</ol></font></li>
 
 <h2>School Life</h2>
 <p><font size="4">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> 
