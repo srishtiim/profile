@@ -19,7 +19,7 @@
   <ol type="1">
   <li>Physics</li>
   <li>Chemistry</li>
-  <li> <a href="https://srishtiim.github.io/profile/maths.htm">Maths<a></font></li>
+  <li> <a href="https://srishtiim.github.io/profile/maths.htm">Maths<a> </font></li>
  </ol>
 
 <h2>School Life</h2>
