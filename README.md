@@ -29,14 +29,14 @@
  
  <h1>Hobbies</h1>
  Some of the hobbies I developed are- 
-<ul>
+
 <li>Drawing-Drawing is a skill I learnt from my dad and I can incorporate it into various themes.<br>Some of the <a href="https://srishtiim.github.io/profile/1.htm">drawings</a> I have made are related to the theme of Kolkata<br></li>
 <li>Sketching</li>
  <li>Reading Books- My  <a href="https://srishtiim.github.io/profile/fav.htm">favourite genres</a> of books are related to <br>
  existentialism, psychology and crime</li> 
  <li>Writing (i was also editor of my school newspaper)</li>
 </font>
- </ul>
+
 
 
 
