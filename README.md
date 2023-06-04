@@ -19,10 +19,10 @@
   
   <ol type="1">
   <li>Physics</li>
-  <li><a href="https://srishtiim.github.io/profile/maths.htm">Chemistry</a></li>
+  <li><a href="https://srishtiim.github.io/profile/chem.htm">Chemistry</a></li>
   <li><a href="https://srishtiim.github.io/profile/maths.htm">Maths<a></li>
  </ol>
-  </font>
+   </font></p>
 
 <h2>School Life</h2>
 <p><font size="4">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> 
