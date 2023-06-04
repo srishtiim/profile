@@ -21,7 +21,7 @@
   <ol type="1">
    <li><a href="https://srishtiim.github.io/profile/phy.htm">Physics</a></li>
   <li><a href="https://srishtiim.github.io/profile/chem.htm">Chemistry</a></li>
-  <li><a href="https://srishtiim.github.io/profile/maths.htm">Maths<a></li>
+  <li><a href="https://srishtiim.github.io/profile/maths.htm">Maths</a></li>
  </ol>
   </font>
 
