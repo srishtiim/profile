@@ -17,9 +17,9 @@
  <li>I am learning html, python and C++ through the internet and various other sources.</li>
  <li>My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of PCM i.e.
   <ol type="1">
-  <li>physics</li>
-  <li>chemistry</li>
-  <li> <a href="https://srishtiim.github.io/profile/maths.htm">maths<a></font></li>
+  <li>Physics</li>
+  <li>Chemistry</li>
+  <li> <a href="https://srishtiim.github.io/profile/maths.htm">Maths<a></font></li>
  </ol>
 
 <h2>School Life</h2>
