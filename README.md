@@ -19,8 +19,9 @@
   <ol type="1">
   <li>Physics</li>
   <li>Chemistry</li>
-  <li> <a href="https://srishtiim.github.io/profile/maths.htm">Maths<a> </font></li>
+  <li> <a href="https://srishtiim.github.io/profile/maths.htm">Maths<a> 
  </ol>
+  </font></li>
 
 <h2>School Life</h2>
 <p><font size="4">My school's name is Amity International School. <a href="https://ais.amity.edu/gurugram46/">School link</a> 
