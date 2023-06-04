@@ -30,7 +30,7 @@
  <br>I joined it in 2010 and previously I was in Amity International, Noida.
 <br>Some of the hobbies I developed are- 
  
- <h1>Hobbies</h1>
+ <h2>Hobbies</h2>
  Some of the hobbies I developed are- 
 
 <li>Drawing-Drawing is a skill I learnt from my dad and I can incorporate it into various themes.
