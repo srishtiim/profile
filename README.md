@@ -28,7 +28,6 @@
 <h2>School Life</h2>
 <p><font size="4">My school's name is Amity International School.
  <br>I joined it in 2010 and previously I was in <a href="https://ais.amity.edu/noida/">Amity International, Noida.</a>
-<br>Some of the hobbies I developed are- 
  
  <h2>Hobbies</h2>
  Some of the hobbies I developed are- 
