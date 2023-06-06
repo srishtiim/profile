@@ -2,7 +2,7 @@
 <head>
 <title>About Me</title>
 </head>
-<body style="background-color:#85e0e0;">
+<body style="background-color:#b8b894;">
  
  <img align="right" src="https://srishtiim.github.io/profile/me.jpg" border="0" width="250" height="200">
 
