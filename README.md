@@ -37,7 +37,7 @@
 <li>Sketching</li>
  <li>Reading Books- My  <a href="https://srishtiim.github.io/profile/fav.htm">favourite genres</a> of books are related to <br>
  existentialism, psychology and crime</li> 
- <li>Writing (i was also editor of my school newspaper</li>
+ <li>Writing-I was editor of my school newspaper</li>
 </font>
 
 
