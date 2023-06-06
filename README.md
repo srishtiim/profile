@@ -33,8 +33,7 @@
  <h2>Hobbies</h2>
  Some of the hobbies I developed are- 
 
-<li>Drawing-Drawing is a skill I learnt from my dad and I can incorporate it into various themes.
- <br>Some of the <a href="https://srishtiim.github.io/profile/1.htm">drawings</a> I have made are related to the theme of Kolkata<br></li>
+<li>Drawing-I learnt drawing from my dad. My paintings have different themes. One of the major themes is <a href="https://srishtiim.github.io/profile/1.htm">Kolkata.</a></li>
 <li>Sketching</li>
  <li>Reading Books- My  <a href="https://srishtiim.github.io/profile/fav.htm">favourite genres</a> of books are related to <br>
  existentialism, psychology and crime</li> 
