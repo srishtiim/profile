@@ -10,6 +10,7 @@
 <h2>Details</h2>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
  I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/">Amity International School.</a><br>
+ <li><a href="https://srishtiim.github.io/profile/test.htm">Test</a></li>
  </font></p>
 
 <h2>Current Studies</h2>
