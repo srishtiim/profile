@@ -40,7 +40,7 @@
 
 <td  width="700px" style="vertical-align:top;">
 
-<img src="https://srishtiim.github.io/profile/me.jpg" width="300" height="240">
+<img src="https://srishtiim.github.io/profile/me.jpg" width="300" height="240"><font size="4"><a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> Send me an e­mail!</a></font>
 </td>
 
 
