@@ -38,7 +38,7 @@
 </font>
 </tr>
 
-<td  width="500px" style="vertical-align:top;">
+<td  width="600px" style="vertical-align:top;">
 
 <img src="https://srishtiim.github.io/profile/me.jpg" width="300" height="240">
 </td>
@@ -47,7 +47,7 @@
 
 
 
-<td  valign="top" width="500px">
+<td  valign="top" width="600px">
 <h2>News</h2>
  <font size="4">
   <li>Currently learning Machine Learning with Python through an online course</li>
