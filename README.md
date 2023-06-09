@@ -54,13 +54,11 @@
   <li>Reading Statistical Methods by N.G. Das</li>
  
  
- 
- 
- </td>
+
 
 
 </td>
-</tr>
+ </tr>
 </table>
 
 </body>
