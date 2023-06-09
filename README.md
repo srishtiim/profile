@@ -36,7 +36,8 @@
  <li>Writing-I was editor of my school newspaper</li>
  <li><a href="https://srishtiim.github.io/profile/movie.htm">Favourite movies</a></li>
 </font>
-</tr>
+
+ </tr>
 
 <td  width="700px" style="vertical-align:top;">
 
@@ -58,7 +59,7 @@
 
 
 </td>
- </tr>
+
 </table>
 
 </body>
