@@ -38,7 +38,8 @@
 </font>
 </td>
 
-<td style="vertical-align:top;">
+<td  width="500px" style="vertical-align:top;">
+
 <img src="https://srishtiim.github.io/profile/me.jpg" width="300" height="240">
 </td>
 
