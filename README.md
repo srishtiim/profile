@@ -6,7 +6,7 @@
 
 <table style="width:100%">
 <tr>
-<td align="left">
+<td width="500px" align="left">
 <h2>Details</h2>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
  I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/">Amity International School.</a><br>
