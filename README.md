@@ -47,7 +47,7 @@
 
 
 
-<td  valign="top" width="600px">
+<td valign="top" width="600px">
 <h2>News</h2>
  <font size="4">
   <li>Currently learning Machine Learning with Python through an online course</li>
