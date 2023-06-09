@@ -52,12 +52,7 @@
  <font size="4">
   <li>Currently learning Machine Learning with Python through an online course</li>
   <li>Reading Statistical Methods by N.G. Das</li>
- 
- 
-
-
-
-</td>
+ </td>
 
 </table>
 
