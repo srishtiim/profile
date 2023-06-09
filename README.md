@@ -5,7 +5,7 @@
 <body style="background-color:#bdcebe;">
 
 <table style="width:100%">
-<tr>
+
 <td width="600px" align="left">
 <h2>Details</h2>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
@@ -37,8 +37,7 @@
  <li><a href="https://srishtiim.github.io/profile/movie.htm">Favourite movies</a></li>
 </font>
 
- </tr>
-
+ 
 <td  width="700px" style="vertical-align:top;">
 
 <img src="https://srishtiim.github.io/profile/me.jpg" width="300" height="240"><font size="4"><a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> Send me an e­mail!</a></font>
