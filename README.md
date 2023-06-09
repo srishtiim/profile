@@ -36,7 +36,7 @@
  <li>Writing-I was editor of my school newspaper</li>
  <li><a href="https://srishtiim.github.io/profile/movie.htm">Favourite movies</a></li>
 </font>
-</td>
+</tr>
 
 <td  width="500px" style="vertical-align:top;">
 
