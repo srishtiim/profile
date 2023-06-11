@@ -55,7 +55,17 @@
 <h2>News</h2>
  <font size="4">
   <li>Currently learning Machine Learning with Python through an online course</li>
-  <li>Reading Statistical Methods by N.G. Das</li>
+  <li>Reading Statistical Methods by N.G. Das</li><br>
+   <h2>Hobbies</h2>
+ <font size="4">Some of the hobbies I developed are- 
+
+<li>Drawing-I learnt drawing from my dad. My paintings have different themes.<br> One of the major themes is <a href="https://srishtiim.github.io/profile/1.htm">Kolkata.</a></br></li>
+<li>Sketching</li>
+ <li>Reading Books- My  <a href="https://srishtiim.github.io/profile/fav.htm">favourite genres</a> of books are related to <br>
+ existentialism, psychology and crime</li> 
+ <li>Writing-I was editor of my school newspaper</li>
+ <li><a href="https://srishtiim.github.io/profile/movie.htm">Favourite movies</a></li>
+</font>
  </td>
 
 </table>
