@@ -15,6 +15,7 @@
 <font size="4">
  <li>I am currently studying computer science and will be starting my first year in college.</li>
  <li>I am learning html, python and C++ through the internet and various other sources.</li>
+
  <li>My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of PCM i.e.</li> <ol type="1">
    <li><a href="https://srishtiim.github.io/profile/phy.htm">Physics</a></li>
   <li><a href="https://srishtiim.github.io/profile/chem.htm">Chemistry</a></li>
@@ -42,7 +43,8 @@
 <h2>News</h2>
  <font size="4">
   <li>Currently learning Machine Learning with Python through an online course</li>
-  <li>Reading Statistical Methods by N.G. Das</li><br>
+  <li>Reading Statistical Methods by N.G. Das</li>
+  <li> Current Read- Beyond Good and Evil by Friedrich Nietzsche</li><br>
    
   
   <h2>Hobbies</h2>
