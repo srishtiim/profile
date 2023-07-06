@@ -35,7 +35,7 @@
 </font>
 
  <h2>Projects</h2>
- <p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same 
+ <p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same. 
 
 
 
