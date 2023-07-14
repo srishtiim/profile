@@ -9,17 +9,17 @@
 <td valign="top" width="600px" align="left">
 <h2>Details</h2>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
- I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/">Amity International School.</a><br>
+ I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/" target="_blank">Amity International School.</a><br>
  </font></p> 
 <h2>Current Studies</h2>
 <font size="4">
  <li>I am currently studying computer science and will be starting my first year in college.</li>
  <li>I am learning html, python and C++ through the internet and various other sources.</li>
 
- <li>My <a href="https://srishtiim.github.io/profile/3.htm">past studies</a> include subjects of PCM i.e.</li> <ol type="1">
-   <li><a href="https://srishtiim.github.io/profile/phy.htm">Physics</a></li>
-  <li><a href="https://srishtiim.github.io/profile/chem.htm">Chemistry</a></li>
-  <li><a href="https://srishtiim.github.io/profile/maths.htm">Maths</a></li>
+ <li>My <a href="https://srishtiim.github.io/profile/3.htm" target="_blank">past studies</a> include subjects of PCM i.e.</li> <ol type="1">
+   <li><a href="https://srishtiim.github.io/profile/phy.htm" target="_blank">Physics</a></li>
+  <li><a href="https://srishtiim.github.io/profile/chem.htm" target="_blank">Chemistry</a></li>
+  <li><a href="https://srishtiim.github.io/profile/maths.htm" target="_blank">Maths</a></li>
  </ol>
   </font>
 
