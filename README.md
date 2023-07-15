@@ -7,6 +7,7 @@
 <table style="width:100%">
 
 <td valign="top" width="600px" align="left">
+ <div class="container">
 <h2>Details</h2>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
  I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/" target="_blank">Amity International School.</a><br>
@@ -22,6 +23,7 @@
   <li><a href="https://srishtiim.github.io/profile/maths.htm" target="_blank">Maths</a></li>
  </ol>
   </font>
+    </div>
 
 
 
