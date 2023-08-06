@@ -1,6 +1,6 @@
 .column {
   float: left;
-  width: 25%;
+  width: 50%;
   padding: 10px;
   height: 600px; /* Should be removed. Only for demonstration */
 }
