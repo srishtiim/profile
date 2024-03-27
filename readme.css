@@ -1,0 +1,6 @@
+.greyed
+    background-color #DDD
+    width 100%
+    max-width 580px
+    text-align center
+    font('Open Sans',18px,6px,600,28px)
