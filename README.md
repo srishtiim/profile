@@ -46,7 +46,7 @@
  <font size="4">
   <li>Currently learning Machine Learning with Python through an online course</li>
   <li>Reading Statistical Methods by N.G. Das</li>
-  <li> Current Read- Beyond Good and Evil by Friedrich Nietzsche</li><br>
+  <li> Current Read- Think India by Vinay Rai</li><br>
    
   
   <h2>Hobbies</h2>
