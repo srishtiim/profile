@@ -1,5 +1,6 @@
 <html>
 <head>
+  <link rel="stylesheet" href="readme.css" >
 <title>About Me</title>
 </head>
 <body style="background-color:#bdcebe;">
