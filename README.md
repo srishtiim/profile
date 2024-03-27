@@ -8,6 +8,8 @@
 
 <td valign="top" width="600px" align="left">
 
+<div class="rela-block caps greyed">Profile</div>
+
 <h2>Details</h2>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
  I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/" target="_blank">Amity International School.</a><br> I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur.
