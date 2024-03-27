@@ -17,11 +17,6 @@
  <li>I am currently studying computer science and will be starting my first year in college.</li>
  <li>I am learning html, python and C++ through the internet and various other sources.</li>
 
- <li>My <a href="https://srishtiim.github.io/profile/3.htm" target="_blank">past studies</a> include subjects of PCM i.e.</li> <ol type="1">
-   <li><a href="https://srishtiim.github.io/profile/phy.htm" target="_blank">Physics</a></li>
-  <li><a href="https://srishtiim.github.io/profile/chem.htm" target="_blank">Chemistry</a></li>
-  <li><a href="https://srishtiim.github.io/profile/maths.htm" target="_blank">Maths</a></li>
- </ol>
  <li>My current studies in 1st year of college includes 2 cycles</li> <ol type="1">
  <li><a href="https://srishtiim.github.io/profile/phy.htm" target="_blank">Physics Cycle </a></li>
  <li><a href="https://srishtiim.github.io/profile/chem.htm" target="_blank">Chemistry Cycle</a></li>
