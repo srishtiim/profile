@@ -6,6 +6,7 @@
 <body style="background-color:#bdcebe;">
 
 <table style="width:100%">
+<tr>
 
 <td valign="top" width="600px" align="left">
 
@@ -25,6 +26,10 @@
  <li><a href="https://srishtiim.github.io/profile/phy.htm" target="_blank">Physics Cycle </a></li>
  <li><a href="https://srishtiim.github.io/profile/chem.htm" target="_blank">Chemistry Cycle</a></li>
   </font>
+  </ol>
+  </li>
+  </ul>
+  </td>
 
 
 
