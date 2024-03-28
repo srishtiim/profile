@@ -10,18 +10,16 @@
 
 <td valign="top" width="600px" align="left">
 
-<div class="header">
+
 <h2>Details</h2>
-</div>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
  I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/" target="_blank">Amity International School.</a><br> I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur.
  </font></p> 
 
 <br></br>
  
-<div class="header">  
+
 <h2>Current Studies</h2>
-</div>
 <font size="4">
  <li>I am currently studying computer science and will be starting my first year in college.</li>
  <li>I am learning html, python and C++ through the internet and various other sources.</li>
@@ -39,16 +37,13 @@
 
 <br></br>
 
-<div class="header">
+
  <h2>School Life</h2> 
-</div>
 <p><font size="4">My school's name is Amity International School.
  <br>I joined it in 2010 and previously I was in <a href="https://ais.amity.edu/noida/">Amity International, Noida.</a>
 </font>
 
-<div class="header">
  <h2>Projects</h2>
-</div>
  <p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same. 
 
 
@@ -63,9 +58,8 @@
   <li><p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same. </li>
 <li> Current Read- Think India by Vinay Rai</li><br></font></p>
    
-  <div class="header">
+
   <h2>Hobbies</h2>
-  </div>
  <font size="4">Some of the hobbies I developed are- 
 
 <li>Drawing-I learnt drawing from my dad. My paintings have different themes.<br> One of the major themes is <a href="https://srishtiim.github.io/profile/drawings.htm">Kolkata.</a></li>
