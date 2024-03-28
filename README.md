@@ -9,10 +9,13 @@
 
 <td valign="top" width="600px" align="left">
 
+<div class="header">
 <h2>Details</h2>
+</div>
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
  I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/" target="_blank">Amity International School.</a><br> I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur.
  </font></p> 
+  
 <h2>Current Studies</h2>
 <font size="4">
  <li>I am currently studying computer science and will be starting my first year in college.</li>
