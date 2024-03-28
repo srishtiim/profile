@@ -16,6 +16,8 @@
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
  I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/" target="_blank">Amity International School.</a><br> I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur.
  </font></p> 
+
+<br></br>
  
 <div class="header">  
 <h2>Current Studies</h2>
@@ -58,7 +60,7 @@
 <h2>Projects</h2>
  <font size="4">
   <li>Currently learning Machine Learning with Python through an online course</li>
-  <li></li><p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same. </li>
+  <li><p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same. </li>
 <li> Current Read- Think India by Vinay Rai</li><br></font></p>
    
   <div class="header">
