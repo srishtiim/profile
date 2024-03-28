@@ -61,8 +61,9 @@
   <li></li><p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same. </li>
 <li> Current Read- Think India by Vinay Rai</li><br></font></p>
    
-  
+  <div class="header">
   <h2>Hobbies</h2>
+  </div>
  <font size="4">Some of the hobbies I developed are- 
 
 <li>Drawing-I learnt drawing from my dad. My paintings have different themes.<br> One of the major themes is <a href="https://srishtiim.github.io/profile/drawings.htm">Kolkata.</a></li>
