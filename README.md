@@ -32,7 +32,9 @@
 <td  width="700px" style="vertical-align:top;">
 
 <img src="https://srishtiim.github.io/profile/me.jpg" width="300" height="240"><font size="4"><a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> Send me an e­mail!</a><br>
- <h2>School Life</h2>
+
+<br></br>
+ <h2>School Life</h2> 
 <p><font size="4">My school's name is Amity International School.
  <br>I joined it in 2010 and previously I was in <a href="https://ais.amity.edu/noida/">Amity International, Noida.</a>
 </font>
