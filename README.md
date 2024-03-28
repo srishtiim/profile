@@ -16,8 +16,10 @@
 <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
  I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/" target="_blank">Amity International School.</a><br> I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur.
  </font></p> 
-  
+ 
+<div class="header">  
 <h2>Current Studies</h2>
+</div>
 <font size="4">
  <li>I am currently studying computer science and will be starting my first year in college.</li>
  <li>I am learning html, python and C++ through the internet and various other sources.</li>
@@ -26,11 +28,6 @@
  <li><a href="https://srishtiim.github.io/profile/phy.htm" target="_blank">Physics Cycle </a></li>
  <li><a href="https://srishtiim.github.io/profile/chem.htm" target="_blank">Chemistry Cycle</a></li>
   </font>
-  </ol>
-  </li>
-  </ul>
-  </td>
-
 
 
  
@@ -39,12 +36,17 @@
 <img src="https://srishtiim.github.io/profile/lol.jpg" width="300" height="240"><font size="4"><a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> Send me an e­mail!</a><br>
 
 <br></br>
+
+<div class="header">
  <h2>School Life</h2> 
+</div>
 <p><font size="4">My school's name is Amity International School.
  <br>I joined it in 2010 and previously I was in <a href="https://ais.amity.edu/noida/">Amity International, Noida.</a>
 </font>
 
+<div class="header">
  <h2>Projects</h2>
+</div>
  <p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same. 
 
 
@@ -53,11 +55,11 @@
 
 
 <td valign="top" width="600px">
-<h2>News</h2>
+<h2>Projects</h2>
  <font size="4">
   <li>Currently learning Machine Learning with Python through an online course</li>
-  <li>Reading Statistical Methods by N.G. Das</li>
-  <li> Current Read- Think India by Vinay Rai</li><br>
+  <li></li><p><font size="4">I'm currently working on a <a href="https://srishtiim.github.io/sustainability/"> sustainability</a> project to raise awareness for the same. </li>
+<li> Current Read- Think India by Vinay Rai</li><br></font></p>
    
   
   <h2>Hobbies</h2>
