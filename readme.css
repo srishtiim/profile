@@ -1,6 +1,9 @@
-.greyed
-    background-color #DDD
-    width 100%
-    max-width 580px
-    text-align center
-    font('Open Sans',18px,6px,600,28px)
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
