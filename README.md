@@ -33,7 +33,9 @@
  
 <td  width="700px" style="vertical-align:top;">
 
-<img src="https://srishtiim.github.io/profile/lol.jpg" width="300" height="240"><font size="4"><a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> Send me an e­mail!</a><br>
+<img src="https://srishtiim.github.io/profile/lol.jpg" width="300" height="240"><font size="4"><a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> 
+<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/srishti-mukherjee/');" title="">in</div>
+Send me an e­mail!</a><br>
 
 <br></br>
 
