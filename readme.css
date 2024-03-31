@@ -6,3 +6,10 @@
   color: white;
   font-size: 20px;
 }
+
+
+footer {
+line-height: 40px;
+display: flex;
+justify-content: center;
+}
