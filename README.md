@@ -7,8 +7,6 @@
 
 <div class="nav-header">
     <div class="nav-brand">
-      <img src="https://s3-us-west-2.amazonaws.com/parallax-theme/assets/bradlogo2.png">
-    </div>
     <i class="fa fa-bars fa-3x"></i>
     <div class="header-links">
       <ul>
