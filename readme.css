@@ -172,7 +172,7 @@ p {
 
 .header-links li {
   color: white;
-  display: inline;
+  display: inline-block;
   float: center;
   padding: 15px;
   font-size: 20px;
