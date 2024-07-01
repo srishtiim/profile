@@ -70,7 +70,7 @@ body {
   <div class="header-right">
     <a class="active" href="#home">ABOUT ME</a>
     <a href="#contact">RESUME</a>
-    <a href="#about">PROJECTS</a>
+    <a href="https://srishtiim.github.io/profile/chem.htm" target="_blank">PROJECTS</a>
   </div>
 </div>
 
