@@ -16,9 +16,9 @@
         </nav>
     </header>
 
- <! –– <div class="nav-brand">
+ <div class="nav-brand">
     <i class="fa fa-bars fa-3x"></i>
-    <div class="header-links">  ––>
+    <div class="header-links">
       <ul>
         <li data-menuanchor="fourthPage"><a href="#contact">CONTACT</a></li>
         <li data-menuanchor="thirdPage"><a href="#portfolio">PORTFOLIO</a></li>
