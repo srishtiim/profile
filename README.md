@@ -6,6 +6,20 @@
 <body style="background-color:#bdcebe;">
 
 <div class="header">
+<nav id="nav">
+ <a href="home.html" id="home" class="nav">home&nbsp;</a>
+            <a href="help.html" id="help" class="nav">help&nbsp;</a>
+            <a href="https://app.tutturu.tv" id="tutturu" class="nav">tutturu&nbsp;</a>
+            <a href="stream.html" id="stream" class="nav">stream&nbsp;</a>
+            <a href="about.html" id="about" class="nav">about&nbsp;</a>
+        </nav>
+    </header>
+
+
+
+
+
+ 
     <! –– <div class="nav-brand">
     <i class="fa fa-bars fa-3x"></i>
     <div class="header-links">  ––>
