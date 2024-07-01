@@ -106,3 +106,15 @@ Send me an e­mail!</a><br>
  <li><a href="https://srishtiim.github.io/profile/movie.htm">Favourite movies</a></li>
 </font>
 
+
+
+footer>
+  <ul class="footer-icons">
+    <li><a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+    <li><a href="mailto:example@gmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
+    <li><a href="https://github.com/" target="_blank"><i class="fab fa-github"></i></a></li>
+  </ul>
+</footer>
+
+<!-- Include Font Awesome for icons -->
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
