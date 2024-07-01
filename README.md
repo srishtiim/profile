@@ -176,13 +176,6 @@ body {margin:0;height:2000px;}
 
 <img src="https://srishtiim.github.io/profile/lol.jpg" width="300" height="240"><font size="4">
 
-<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>
-<a href="mailto:srishtii.mukherjee@gmail.com?Subject=Creating an e­mail link!"> 
-
-
-<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/srishti-mukherjee/');" title="">in</div>
-Send me an e­mail!</a><br>
-
 <br></br>
 
 
