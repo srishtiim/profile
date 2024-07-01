@@ -38,7 +38,7 @@ body {
 
 .header a:hover {
   background-color: #ddd;
-  color: white;
+  color: black;
 }
 
 .header a.active {
