@@ -16,6 +16,8 @@
         </nav>
     </header>
 
+    
+ <header id="header">
  <div class="nav-brand">
     <i class="fa fa-bars fa-3x"></i>
     <div class="header-links">
@@ -26,6 +28,7 @@
       </ul>
     </div>
   </div>
+ </header>
 
 
 
