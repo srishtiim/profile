@@ -5,15 +5,6 @@
 </head>
 <body style="background-color:#bdcebe;">
 
-
- <header id="header">
-        <nav id="nav">
-            <a href="https://app.tutturu.tv" id="tutturu" class="nav">PROJECTS&nbsp;</a>
-            <a href="stream.html" id="stream" class="nav">RESUME&nbsp;</a>
-            <a href="about.html" id="about" class="nav">ABOUT&nbsp;</a>
-        </nav>
-    </header>
-
     
  <header id="header">
  <div class="nav-brand">
