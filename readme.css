@@ -117,7 +117,7 @@ p {
   left: 0;
   z-index: 400;
   padding: 10px;
-  text-align: center;
+  text-align: right;
 }
 
 .nav-brand img {
