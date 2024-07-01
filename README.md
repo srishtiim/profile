@@ -12,7 +12,7 @@
             <a href="help.html" id="help" class="nav">help&nbsp;</a>
             <a href="https://app.tutturu.tv" id="tutturu" class="nav">tutturu&nbsp;</a>
             <a href="stream.html" id="stream" class="nav">stream&nbsp;</a>
-            <a href="about.html" id="about" class="nav">about&nbsp;</a>
+            <a href="about.html" id="about" class="nav">ABOUT&nbsp;</a>
         </nav>
     </header>
 
