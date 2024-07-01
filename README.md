@@ -74,24 +74,6 @@ body {
 </div>
 
 
-    
- <header id="header">
- <div class="nav-brand">
-    <i class="fa fa-bars fa-3x"></i>
-    <div class="header-links">
-      <ul>
-        <li data-menuanchor="fourthPage"><a href="#contact">CONTACT</a></li>
-        <li data-menuanchor="thirdPage"><a href="#portfolio">PORTFOLIO</a></li>
-        <li data-menuanchor="secondPage"><a href="#about">ABOUT</a></li>
-      </ul>
-    </div>
-  </div>
- </header>
-
-
-
-
-
 <table style="width:100%">  
 <tr>  
 
