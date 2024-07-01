@@ -115,6 +115,7 @@ p {
   left: 0;
   z-index: 400;
   padding: 10px;
+  text-align: center;
 }
 
 .nav-brand img {
@@ -150,7 +151,7 @@ p {
 .header-links li {
   color: white;
   display: inline;
-  float: right;
+  float: center;
   padding: 15px;
   font-size: 16px;
 }
