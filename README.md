@@ -6,11 +6,6 @@
 </head>
 <body style="background-color:#bdcebe;">
 
-
-</style>
-</head>
-<body>
-
 <div class="header">
   <a href="#default" class="logo">..</a>
   <div class="header-right">
