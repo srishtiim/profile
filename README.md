@@ -67,7 +67,6 @@ body {
 <body>
 
 <div class="header">
-  <a href="#default" class="logo">..</a>
   <div class="header-right">
     <a class="active" href="#home">ABOUT ME</a>
     <a href="#contact">RESUME</a>
