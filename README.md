@@ -147,7 +147,31 @@ Send me an e­mail!</a><br>
  <li><a href="https://srishtiim.github.io/profile/movie.htm">Favourite movies</a></li>
 </font>
 
-
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  .footer-icons {
+    list-style-type: none;
+    padding: 0;
+  }
+  .footer-icons li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .footer-icons li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+  }
+</style>
 
 <footer>
   <ul class="footer-icons">
@@ -159,3 +183,5 @@ Send me an e­mail!</a><br>
 
 <!-- Include Font Awesome for icons -->
 <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+
