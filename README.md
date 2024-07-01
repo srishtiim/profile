@@ -97,7 +97,7 @@ body {margin:0;height:2000px;}
 }
 
 .icon-bar a:hover {
-  background-color: #000;
+  background-color: #bdcebe;
 }
 
 .facebook {
