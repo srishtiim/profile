@@ -65,19 +65,14 @@ body {
 <body>
 
 <div class="header">
-  <a href="#default" class="logo">CompanyLogo</a>
+  <a href="#default" class="logo">..</a>
   <div class="header-right">
-    <a class="active" href="#home">Home</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
+    <a class="active" href="#home">ABOUT ME</a>
+    <a href="#contact">RESUME</a>
+    <a href="#about">PROJECTS</a>
   </div>
 </div>
 
-<div style="padding-left:20px">
-  <h1>Responsive Header</h1>
-  <p>Resize the browser window to see the effect.</p>
-  <p>Some content..</p>
-</div>
 
     
  <header id="header">
