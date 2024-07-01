@@ -5,7 +5,7 @@
 </head>
 <body style="background-color:#bdcebe;">
 
-<div class="nav-header">
+<div class="header">
     <div class="nav-brand">
     <i class="fa fa-bars fa-3x"></i>
     <div class="header-links">
