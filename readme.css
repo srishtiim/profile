@@ -148,6 +148,7 @@ p {
   position: fixed;
   width: 100%;
   z-index: 500;
+     display: inline-block;
 }
 
 .header-links li {
