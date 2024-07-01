@@ -146,6 +146,11 @@ Send me an e­mail!</a><br>
  <li>Writing-I was editor of my school newspaper</li>
  <li><a href="https://srishtiim.github.io/profile/movie.htm">Favourite movies</a></li>
 </font>
+</table>
+
+
+
+
 
 <style>
   body {
