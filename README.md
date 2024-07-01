@@ -15,7 +15,8 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #6C7A6E
+;
   padding: 20px 10px;
 }
 
