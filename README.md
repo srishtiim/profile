@@ -108,7 +108,7 @@ Send me an e­mail!</a><br>
 
 
 
-footer>
+<footer>
   <ul class="footer-icons">
     <li><a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
     <li><a href="mailto:example@gmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
