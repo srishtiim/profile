@@ -118,7 +118,6 @@ p {
   z-index: 400;
   padding: 10px;
   text-align: center;
-     display: inline-block;
 }
 
 .nav-brand img {
@@ -149,7 +148,6 @@ p {
   position: fixed;
   width: 100%;
   z-index: 500;
-     display: inline-block;
 }
 
 .header-links li {
@@ -157,7 +155,7 @@ p {
   display: inline;
   float: center;
   padding: 15px;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .header-links a {
