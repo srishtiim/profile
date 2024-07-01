@@ -1,15 +1,30 @@
+#header {
+    background-color: #886D75;
+    position: absolute;
+    left: 10px;
+    top: 0px;
+}
 
-.header {
+#nav {
+    text-align: right;
+    float: right;
+}
+
+
+
+
+
+/*.header {
     border: 2px solid black; 
   padding: 10px; 
   text-align: center; 
- /* padding: 2px;
+  padding: 2px;
   text-align: left;
   background: #45423f;
   color: white;
-  font-size: 20px; */
+  font-size: 20px; 
 }
-
+*/
 
 #idLinkedInIcon{
   background-color: rgb(0, 102, 170);
