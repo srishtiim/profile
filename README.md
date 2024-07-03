@@ -4,7 +4,7 @@
 <style> 
 <title>About Me</title>
 </head>
-<body style="background-color:#bdcebe;">
+<body style="background-color: #bdcebe;">
 
 <style>
 * {box-sizing: border-box;}
